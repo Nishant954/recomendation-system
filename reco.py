@@ -1,9 +1,5 @@
 """
 #description  :  A Recommendation Engine based on Collaborative Filtering.
-#author       :  Prakhar Srivastav & Arjun Variar.
-#date         :  15-Aug-2012
-#version      :  1.1
-#usage        :  python reco.py
 #notes        :  This engine was implemented using the research paper based on http://www.grouplens.org/papers/pdf/algs.pdf
                  & the neighborhood filtering was modified to include only neighbors sharing similar interest's, movies here.
                  The Data is taken from here http://www.grouplens.org/node/12/.
